@@ -38,11 +38,11 @@ To compile and run the project, follow these steps:
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/yourusername/Pokedex-System.git
+    git clone https://github.com/Yarin-Shohat/Pokemon.git
     ```
 2. **Navigate to the project directory:**
     ```
-    cd Pokedex-System
+    cd Pokemon
     ```
 3. **Compile the project:**
     ```
